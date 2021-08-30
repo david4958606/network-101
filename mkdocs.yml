@@ -60,4 +60,9 @@ nav:
     - 零：欢迎:
         - 欢迎: index.md
         - 功劳簿: credits.md
+    - 一：Internet 概览: Ch01/index.md
+    - 二：个人服务器二三事: Ch02/index.md
+    - 三：如何当一名修网师傅(x: Ch03/index.md
+    - 四：网络层漫游：游玩dn42: Ch04/index.md
+
     - 跋: postface.md
